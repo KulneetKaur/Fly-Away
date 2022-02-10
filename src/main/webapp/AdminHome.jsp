@@ -13,6 +13,7 @@
 <center>
 <h1>Insert New Flight Details</h1>
 
+	
 <div style="border:3px solid black;width:25%;border-radius:20px;padding:20px" align="center">
 <form action=InsertFlight method=post>
 	<label for=name>Name :-</label> <input type="text" name=name id=name /><br><br>
