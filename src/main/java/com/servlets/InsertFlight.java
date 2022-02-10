@@ -52,5 +52,4 @@ protected void doPost(HttpServletRequest request, HttpServletResponse response) 
 		response.sendRedirect("AdminHome.jsp");
 		
 	}
-
 }
